@@ -9,7 +9,7 @@ Kolkata, West Bengal | M.Sc. Data Science, St. Xavier's College (2024–2026)
 
 ## About Me
 
-I hae worked on end-to-end AI systems — from custom tokenizers on low-resource Indic corpora to LLM-orchestrated voice agents deployed in real field studies. My work sits at the intersection of rigorous ML fundamentals and practical, accessible AI.
+I have worked on end-to-end AI systems — from custom tokenizers on low-resource Indic corpora to LLM-orchestrated voice agents deployed in real field studies. My work sits at the intersection of rigorous ML fundamentals and practical, accessible AI.
 
 
 ---
